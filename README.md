@@ -1,2 +1,8 @@
 # http5125
-BackEnd
+this is the repo for Back-End Web Development 1
+
+Today I found it hard to write a C# language about api
+for example
+```
+GET http://localhost:xx/api/q2/greeting?name={name}
+```
